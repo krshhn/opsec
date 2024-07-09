@@ -1,0 +1,12 @@
+* [Home](/)
+* [Add to your server](/)
+* [Getting Started](getting-started.md)
+* [About Incurify](https://incurify.xyz)
+* **Modules**
+  * [AntiNuke](antinuke.md)
+  * [AntiRaid](antiraid.md)
+  * [JoinGate](joingate.md)
+  * [Raidmode](raidmode.md)
+  * [AutoMod](automod.md)
+  * [Moderation](moderation.md)
+  * [Logging](logging.md)
