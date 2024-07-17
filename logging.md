@@ -17,10 +17,8 @@ If you've already used the command `/setup` then logging is probably already ena
  * Bot Add
  * Guild Update
  * Role Create 
- * Role Update
  * Role Delete
  * Channel Create
- * Channel Update
  * Channel Delete
 
 ## Commands (3)
