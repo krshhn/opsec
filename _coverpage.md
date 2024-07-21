@@ -1,5 +1,7 @@
 <!-- _coverpage.md -->
 
+[!logo](opsec.png)
+
 > opsec
 
 - Perfect AntiNuke Bot
