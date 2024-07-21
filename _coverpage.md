@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-[!logo](opsec.png)
+![logo](_media/opsec.png)
 
 > opsec
 
