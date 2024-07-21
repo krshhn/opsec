@@ -3,7 +3,7 @@
 
 **What is raidmode?**  
 Raidmode is a module created to enable when your server has a potential threat to be raided. While it is enabled, any joining member will be kicked.  
-It is automatically enabled for few minutes when a raid is detected by the [antiraid module](). You can set the auto duration.  
+It is automatically enabled for few minutes when a raid is detected by the [antiraid module](antiraid.md). You can set the auto duration.  
 > The kicked users will recieve a message stating the reason why they were kicked. The message looks like this: 
 
 ## Commands (3)
